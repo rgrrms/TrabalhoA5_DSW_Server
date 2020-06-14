@@ -1,0 +1,7 @@
+.idea
+
+src/database/baco.txt
+
+knexfile.ts
+
+node_modules
